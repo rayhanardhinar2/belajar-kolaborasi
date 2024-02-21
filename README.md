@@ -1,4 +1,2 @@
 # belajar-kolaborasi
-1
-2
-3
+Kolaborasi di Github dengan Dicoding sangat membantu
